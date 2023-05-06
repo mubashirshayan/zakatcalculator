@@ -1,0 +1,15 @@
+body {
+    font-size: 15pt;
+}
+.container{
+  background-color: lightblue;
+  height: 200px;
+}
+.btn{
+  background-color: greenyellow;
+  height: 50px;
+  width: 150px;
+  border: none;
+  color: white;
+  font-weight: bold;
+}
